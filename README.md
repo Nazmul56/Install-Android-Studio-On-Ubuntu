@@ -11,7 +11,7 @@ From here
 http://developer.android.com/sdk/index.html
 
 ####Unzip & Save 
-Unzip Downloaded Zip file 
+Unzip Downloaded Zip file &
 Save it on Home Directory.
 
 ####Run this command
