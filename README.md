@@ -1,8 +1,10 @@
 Install-Android-Studio-On-Ubuntu
 ================================
 ####Install JRE & JDK
+<pre>
 Install JRE - 7 or upper virsion from Software Center
 Install JDK - 7 or upper virsion form Software Center
+</pre>
 
 ####Download All Android Studio Package(For Linux Package)
 From here
