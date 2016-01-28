@@ -16,6 +16,12 @@ sudo apt-get install oracle-java8-installer
 javac -version  (For JRE)
 java -version    (For JDK)
 </pre>
+### For "Unable to run mksdcard SDK tool."(ubuntu 14.04)
+
+<pre>
+sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+</pre>
+
 ####Download All Android Studio Package(For Linux Package)
 From here
 http://developer.android.com/sdk/index.html
