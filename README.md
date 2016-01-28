@@ -6,6 +6,14 @@ Install JRE - 7 or upper virsion from Software Center
 Install JDK - 7 or upper virsion form Software Center
 </pre>
 
+OR
+<pre>
+sudo apt-add-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+</pre>
+
 ####Download All Android Studio Package(For Linux Package)
 From here
 http://developer.android.com/sdk/index.html
