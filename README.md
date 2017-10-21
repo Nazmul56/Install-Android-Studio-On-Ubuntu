@@ -65,3 +65,7 @@ Go to VCS > Import into Version Controll > "Select" Share on Gtihub .
 
 Comite , Push .
 </pre>
+# SATA Details
+<pre>
+https://www.cyberciti.biz/faq/linux-command-to-find-sata-harddisk-link-speed/
+</pre>
